@@ -174,7 +174,7 @@ namespace IR {
     }
 
     /**
-     * Returns the IR datagram as 32-bit hexadecimal string.
+     * Returns the last two digits of datagram in decimal.
      * The last received datagram is returned or "0x00000000" if no data has been received yet.
      */
     //% blockId=IR_read
